@@ -1,4 +1,4 @@
-.csv
-.env
-.xlsx
-.ipynb_checkpoints
+*.csv
+*.env
+*.xlsx
+*.ipynb_checkpoints
